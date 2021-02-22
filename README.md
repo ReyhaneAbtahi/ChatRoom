@@ -1,11 +1,10 @@
-# Simon game
-Simon game using atmega32  
-simon is a memory game. play online on this link: https://www.memozor.com/simon-games/simon-game    
-# Requirement  
-* proteus
-* atmega32 compiler(atmel studio for example)
-# Example
-![see example picture here](example.png)  
+# ChatRoom
+simple chat room using python and socket programming.  
+in this project two person can chat together and send and receive messages.  
+# Requirement
+* python 3.x
+# Usage
+![see example gif here](example.gif)  
 # Support:
 
 **Contact me @:**
